@@ -393,7 +393,7 @@ Neko Ai 采用轻量化的组织管理模式：
 **给新手的建议：**
 
 如果你是第一次接触开源，欢迎从给我们的仓库点一个 Star 开始！然后你可以尝试：
-1. 在 [Issues](https://github.com/NekoAiDev/astrbot_plugin_api_limiter/issues) 中寻找标注了 `good first issue` 的任务
+1. 在 [议题](https://github.com/NekoAiDev/astrbot_plugin_api_limiter/issues) 中寻找标注了 `good first issue` 的任务
 2. 改进文档中的错别字或表述
 3. 提交一个你希望添加的功能建议
 
@@ -560,7 +560,7 @@ Neko Ai 采用轻量化的组织管理模式：
 <details>
 <summary><b>🐛 遇到 Bug 怎么办？</b></summary>
 
-请前往对应仓库的 [Issues](https://github.com/NekoAiDev/astrbot_plugin_api_limiter/issues) 页面提交 Bug 报告。为了帮助我们快速定位问题，请附上：
+请前往对应仓库的**议题**页面提交 Bug 报告。为了帮助我们快速定位问题，请附上：
 
 1. 插件版本号（在 AstrBot 后台查看）
 2. AstrBot 版本号
@@ -651,14 +651,14 @@ API 限频器支持在 AstrBot 配置文件中进行详细配置。主要配置�
 | 方式 | 信息 |
 |------|------|
 | **组织拥有者** | [xiaohondan](https://github.com/xiaohondan) |
-| **邮箱** | xiaohondan@skymail.ink |
+| **邮箱** | 3815099625@qq.com |
 | **GitHub 组织** | [NekoAiDev](https://github.com/NekoAiDev) |
 | **插件市场** | [AstrBot 插件市场](https://plugins.astrbot.app) |
 | **Bug 反馈** | [提交 Issue](https://github.com/NekoAiDev/astrbot_plugin_api_limiter/issues) |
 
 ### 🤝 特别致谢
 
-- **[AstrBot](https://github.com/Soulter/AstrBot)** — 提供了优秀的 Bot 框架和活跃的社区生态
+- **[AstrBot](https://github.com/AstrBotDevs/AstrBot)** — 提供了优秀的 Bot 框架和活跃的社区生态
 - **所有贡献者** — 每一个 PR、每一个 Issue、每一个建议，都是对开源社区的珍贵贡献
 - **每一位用户** — 你们的使用和反馈，是我们持续开发的最大动力
 
@@ -674,6 +674,6 @@ API 限频器支持在 AstrBot 配置文件中进行详细配置。主要配置�
 
 *感谢 AstrBot 社区的每一位用户，你们的反馈是我们前进的动力。*
 
-*猫在键盘上敲代码，Bug 都会被猫咪抓走 🐱*
+*猫在键盘上敲代码，Bug 都会被猫娘抓走*
 
 </div>
