@@ -1,6 +1,6 @@
 <p align="center"><img src="https://neko-bpb.pages.dev/cnneko.png" alt="NekoAiDev 组织标识" width="200"/></p>
 
-<p align="center"><sub>NekoAiDev 组织标识</sub></p>
+
 
 <div align="center">
 
