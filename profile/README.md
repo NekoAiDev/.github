@@ -656,6 +656,7 @@ API 限频器支持在 AstrBot 配置文件中进行详细配置。主要配置�
 |------|------|
 | **组织拥有者** | [xiaohondan](https://github.com/xiaohondan) |
 | **邮箱** | 3815099625@qq.com |
+| **官网** | [nekoaidev.top](https://nekoaidev.top)|
 | **GitHub 组织** | [NekoAiDev](https://github.com/NekoAiDev) |
 | **插件市场** | [AstrBot 插件市场](https://plugins.astrbot.app) |
 | **Bug 反馈** | [提交 Issue](https://github.com/NekoAiDev/astrbot_plugin_api_limiter/issues) |
@@ -672,11 +673,11 @@ API 限频器支持在 AstrBot 配置文件中进行详细配置。主要配置�
 
 <div align="center">
 
-**用 ❤️ 打造 | Neko Ai**
+**用 💗 打造 | Neko Ai**
 
 *喜欢我们的插件？在 GitHub 上给个 ⭐ 吧！*
 
-*感谢 AstrBot 社区的每一位用户，你们的反馈是我们前进的动力。*
+*© 2026 Neko团队*
 
 *猫在键盘上敲代码，Bug 都会被猫娘抓走*
 
