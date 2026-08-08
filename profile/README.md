@@ -56,7 +56,7 @@
 <details>
 <summary><h2>📖 关于我们</h2></summary>
 
-Neko Ai 是一个专注于 **[AstrBot](https://github.com/Soulter/AstrBot)** 插件开发与技术探索的开源组织。我们由一群热爱开源、关注用户体验的开发者组成，致力于打造有趣、实用、高质量的开源项目。
+Neko Ai 是一个专注于 **[AstrBot](https://github.com/AstrBotDevs/AstrBot)** 插件开发与技术探索的开源组织。我们由一群热爱开源、关注用户体验的开发者组成，致力于打造有趣、实用、高质量的开源项目。
 
 **AstrBot** 是一款优秀的多平台聊天机器人框架，支持 QQ、微信、Telegram、飞书、Discord 等多种消息平台，拥有活跃的开源社区和丰富的插件生态。作为 AstrBot 社区的积极参与者，我们不仅开发插件，也在持续贡献文档、分享经验，帮助更多用户和开发者加入这个生态。
 
@@ -333,7 +333,7 @@ Neko Ai 采用轻量化的组织管理模式：
 1. ✅ 本地测试通过
 2. ✅ 提交到 GitHub（含 tag）
 3. ✅ 发布 GitHub Release（含更新日志）
-4. ✅ 更新 [AstrBot 插件市场](https://plugins.astrbot.app)
+4. ✅ 更新 [AstrBot 插件市场](https://cloud.astrbot.app)
 
 </details>
 
@@ -397,7 +397,7 @@ Neko Ai 采用轻量化的组织管理模式：
 **给新手的建议：**
 
 如果你是第一次接触开源，欢迎从给我们的仓库点一个 Star 开始！然后你可以尝试：
-1. 在 [议题](https://github.com/NekoAiDev/astrbot_plugin_api_limiter/issues) 中寻找标注了 `good first issue` 的任务
+1. 在议题中寻找标注了 `good first issue` 的任务
 2. 改进文档中的错别字或表述
 3. 提交一个你希望添加的功能建议
 
