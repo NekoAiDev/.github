@@ -45,7 +45,7 @@
 <details>
 <summary><h2>📖 About Us</h2></summary>
 
-Neko Ai is an open-source development organization focused on **[AstrBot](https://github.com/Soulter/AstrBot)** plugin development and broader tech exploration. We are a group of developers passionate about open source and user experience, committed to building fun, practical, and high-quality open-source projects.
+Neko Ai is an open-source development organization focused on **[AstrBot](https://github.com/AstrBotDevs/AstrBot)** plugin development and broader tech exploration. We are a group of developers passionate about open source and user experience, committed to building fun, practical, and high-quality open-source projects.
 
 **AstrBot** is an excellent multi-platform chatbot framework supporting QQ, WeChat, Telegram, Feishu (Lark), Discord, and more, with an active open-source community and a rich plugin ecosystem. As active participants in the AstrBot community, we don't just build plugins — we also contribute documentation, share experiences, and help more users and developers join the ecosystem.
 
@@ -102,7 +102,7 @@ Neko Ai uses a lean organizational model:
 
 ### 🚀 Why Choose Our Plugins?
 
-- ✅ Published on the [AstrBot Plugin Marketplace](https://plugins.astrbot.app) — one-click install, no manual setup
+- ✅ Published on the [AstrBot Plugin Marketplace](https://cloud.astrbot.app) — one-click install, no manual setup
 - ✅ Comprehensive documentation and README in both Chinese and English, beginner-friendly
 - ✅ Full GitHub Actions automation — auto issue triage, PR checks, and code linting for guaranteed code quality
 - ✅ Actively maintained with timely bug fixes and stable version iterations, average release cycle under one week
@@ -322,7 +322,7 @@ Every update must complete these steps:
 1. ✅ Local testing passed
 2. ✅ Push to GitHub (with tag)
 3. ✅ Publish GitHub Release (with changelog)
-4. ✅ Update [AstrBot Plugin Marketplace](https://plugins.astrbot.app)
+4. ✅ Update [AstrBot Plugin Marketplace](https://cloud.astrbot.app)
 
 </details>
 
@@ -553,7 +553,7 @@ Both methods are fully supported. We recommend the marketplace for automatic upd
 <details>
 <summary><b>🐛 What should I do if I find a bug?</b></summary>
 
-Please submit a bug report on the [Issues](https://github.com/NekoAiDev/astrbot_plugin_api_limiter/issues) page of the corresponding repository. To help us fix it quickly, please include:
+Please submit a bug report on the Issues page of the corresponding repository. To help us fix it quickly, please include:
 
 1. Plugin version number (visible in the AstrBot dashboard)
 2. AstrBot version number
